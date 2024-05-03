@@ -1,0 +1,28 @@
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/IBMPlexSansMedium.ttf");
+  font-family: "IBM Plex Sans";
+  font-weight: 500;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/IBMPlexSansBold.ttf");
+  font-family: "IBM Plex Sans";
+  font-weight: 700;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/IBMPlexSans.ttf");
+  font-family: "IBM Plex Sans";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/IBMPlexSansSemiBold.ttf");
+  font-family: "IBM Plex Sans";
+  font-weight: 600;
+}
