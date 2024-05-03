@@ -33,7 +33,7 @@ export default function Header({ ...props }) {
             <Img src="images/img_rectangle_6.png" alt="profile image" className="h-[36px] w-[36px] rounded-[50%]" />
           </a>
           <Text as="p" className="mb-[7px] ml-3 self-end">
-            Siddharth Goyal
+            Naveen Kumar
           </Text>
           <a href="#">
             <Img
